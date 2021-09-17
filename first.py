@@ -3,4 +3,8 @@ print("first")
 
 # COMMAND ----------
 
+print("second")
+
+# COMMAND ----------
+
 
